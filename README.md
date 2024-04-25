@@ -56,7 +56,6 @@ Don't: Spend excessive time learning a new technology from scratch during the ha
 
 Don't: Neglect commenting and documenting your code, as this can lead to confusion for reviewers and future maintenance.
 
-Don't: Be afraid to ask for help from other participants or online communities if you get stuck.
 
 
 **By following these Do's and Don'ts, your team can effectively utilize Git for collaborative coding throughout the hackathon, ensuring a smooth and successful code submission process.**
